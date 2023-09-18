@@ -38,9 +38,9 @@
     ],
     "require": {
         "php": "^8.1.0",
-        "illuminate/console": "@stable",
-        "illuminate/database": "@stable",
-        "illuminate/support": "@stable",
+        "illuminate/console": "^10",
+        "illuminate/database": "^10",
+        "illuminate/support": "^10",
         "rinvex/laravel-support": "@stable",
         "spatie/eloquent-sortable": "@stable",
         "spatie/laravel-sluggable": "@stable",
