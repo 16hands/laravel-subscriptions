@@ -38,18 +38,18 @@
     ],
     "require": {
         "php": "^8.1.0",
-        "illuminate/console": "*",
-        "illuminate/database": "*",
-        "illuminate/support": "*",
-        "rinvex/laravel-support": "*",
-        "spatie/eloquent-sortable": "*",
-        "spatie/laravel-sluggable": "*",
-        "spatie/laravel-translatable": "*"
+        "illuminate/console": "@stable",
+        "illuminate/database": "@stable",
+        "illuminate/support": "@stable",
+        "rinvex/laravel-support": "@stable",
+        "spatie/eloquent-sortable": "@stable",
+        "spatie/laravel-sluggable": "@stable",
+        "spatie/laravel-translatable": "@stable"
     },
     "require-dev": {
-        "codedungeon/phpunit-result-printer": "*",
-        "illuminate/container": "*",
-        "phpunit/phpunit": "*"
+        "codedungeon/phpunit-result-printer": "@stable",
+        "illuminate/container": "@stable",
+        "phpunit/phpunit": "@stable"
     },
     "autoload": {
         "psr-4": {
